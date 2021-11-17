@@ -46,6 +46,6 @@ I enjoy being challenged and working on projects that require working outside my
 
 ### 🌐 Contact Me
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-fhasni.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-fhasni-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-hasni.faissal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://hasni.xyz" target="_blank"><img src="https://img.shields.io/badge/-fhasni.xyz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fhasni" target="_blank"><img src="https://img.shields.io/badge/-fhasni-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hasni.faissal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-hasni.faissal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
