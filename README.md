@@ -13,22 +13,25 @@ I enjoy being challenged and working on projects that require working outside my
 ### 🛠 Tech Stack
 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![Objective-c](https://img.shields.io/badge/-Objective%20C-05122A?style=flat&logo=apple)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Objective-c](https://img.shields.io/badge/-Objective%E2%80%94C-05122A?style=flat&logo=apple)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20Code-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=007ACC)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![JIRA](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+![Azure_devops](https://img.shields.io/badge/-Azure%20devops-05122A?style=flat&logo=azure-devops)&nbsp;
+![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![Cirlcle_ci](https://img.shields.io/badge/-Circle%20CI-05122A?style=flat&logo=circleci)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)
 
