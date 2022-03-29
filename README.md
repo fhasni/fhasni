@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 About Me
 <p>
-My name is Faiçal HASNI, I am a Senior Software Engineer with more than 5 years of professional experience in IT in the areas of banking and healthcare, where I have hands-on software development to create high-quality and scalable software applications with industry best practices.
-
+Software Engineer with more than 6 years of professional experience in IT, where I had hands-on software design, DevOps, cloud computing, and full-stack development. I contributed to the digital transformation of multiple industries such as healthcare and banking.
+  
 I enjoy being challenged and working on projects that require working outside my comfort and knowledge set.
 </p>
 
